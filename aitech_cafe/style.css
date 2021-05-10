@@ -305,7 +305,7 @@ section {
 }
 .about-image img{
   width:auto;
-  height: 50vw;
+  max-height: 30%;
 }
 .about-title{
   padding-top: 5rem;
